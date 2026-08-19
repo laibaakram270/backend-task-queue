@@ -1,6 +1,6 @@
 # Backend Task Queue
 
-This is my FastAPI project for Devnexes Internship Week 4.
+This is my FastAPI project for Devnexes Internship.
 It creates jobs and processes them with a background worker using SQLite.
 
 ## How to Install
